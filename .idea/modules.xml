@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlgorithmProject/AlgorithmProject.iml" filepath="$PROJECT_DIR$/AlgorithmProject/AlgorithmProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode01_23-1-31/leetcode01_23-1-31.iml" filepath="$PROJECT_DIR$/leetcode01_23-1-31/leetcode01_23-1-31.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode02_23-2-1/leetcode02_23-2-1.iml" filepath="$PROJECT_DIR$/leetcode02_23-2-1/leetcode02_23-2-1.iml" />
